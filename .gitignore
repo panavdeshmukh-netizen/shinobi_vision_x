@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+captures/
+assets/models/*.task
+config/settings.json

@@ -1,0 +1,13 @@
+{
+  "sequences": [
+    {"name": "Lightning Strike", "steps": ["fist", "pointing", "open_palm"], "effect": "lightning", "hold_time": 0.35, "timeout": 4.0, "cooldown": 3.0},
+    {"name": "Energy Orb", "steps": ["open_palm", "fist", "open_palm"], "effect": "rasengan", "hold_time": 0.35, "timeout": 4.0, "cooldown": 3.0},
+    {"name": "Fire Burst", "steps": ["fist", "peace", "pointing"], "effect": "fireball", "hold_time": 0.35, "timeout": 4.0, "cooldown": 3.0},
+    {"name": "Clone Echo", "steps": ["peace", "fist", "peace"], "effect": "clones", "hold_time": 0.35, "timeout": 4.0, "cooldown": 4.0},
+    {"name": "Summoning", "steps": ["pointing", "open_palm", "fist", "peace", "thumbs_up"], "effect": "summoning", "hold_time": 0.35, "timeout": 5.0, "cooldown": 4.0},
+    {"name": "Cursed Aura", "steps": ["thumbs_up", "fist", "thumbs_up"], "effect": "cursed_aura", "hold_time": 0.35, "timeout": 4.0, "cooldown": 4.0},
+    {"name": "Reaper Seal", "steps": ["two_hand_contact", "fist", "two_hand_contact"], "effect": "reaper_seal", "hold_time": 0.4, "timeout": 5.0, "cooldown": 5.0},
+    {"name": "Space Warp", "steps": ["pointing", "thumbs_up", "pointing"], "effect": "distortion", "hold_time": 0.35, "timeout": 4.0, "cooldown": 4.0},
+    {"name": "Twin Palm Awakening", "steps": ["two_hand_open"], "effect": "awakening", "hold_time": 1.0, "timeout": 3.0, "cooldown": 5.0}
+  ]
+}
